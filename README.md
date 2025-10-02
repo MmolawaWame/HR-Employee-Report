@@ -3,9 +3,12 @@
 ### Project Overview
 The project intends to provide a better understanding of company data for HR personnel so that they optimize workforce planning based on employee demographics, and ensure diversity and inclusion within the institution. 
 
+<img width="918" height="531" alt="Screenshot (51)" src="https://github.com/user-attachments/assets/836fad37-068a-456b-8cec-fea9b7638d53" />
+
+
 ### Data Sources
 HR Data: The main dataset used for this project is the "Human Resources.csv" file, containing employee names, department, job titles and other demographic information that is vital for analysis.
-
+Report: The complete HR report can be found in the "HR Employee Report.pdf" file.
 
 ### Tools
 - Microsoft SQL Server - Data cleaning, Data Analysis
