@@ -1,4 +1,4 @@
-# HR-Employee-Report
+# HR Workforce Analytics Dashboard (SQL & Power BI)
 
 ### Project Overview
 The project intends to provide a better understanding of company data for HR personnel so that they optimize workforce planning based on employee demographics, and ensure diversity and inclusion within the institution. 
